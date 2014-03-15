@@ -1,0 +1,2 @@
+This is an interactive tutorial depicting the relationship of frictional force offered by a surface with multiple forces.It shows how the direction of frictional force change with the change in the direction of the applied forces. It requires Adobe Flash Player to be installed. 
+If the Adobe Flash Player is installed,just open index.html with any browser ,Google Chrome or Mozilla Firefox,that supports Adobe Flash Player.
